@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "quake/water0"
+	"$nolod" 1
+	"$translucent" 1
+}

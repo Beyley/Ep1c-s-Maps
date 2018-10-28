@@ -1,0 +1,12 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "lumpox\blend\blendbrick01"
+	"$basetexture2" "lumpox\blend\blendcrackedsoil"
+	"$bumpmap" "lumpox\blend\blendbrick01_NRM"
+	"$bumpmap2" "lumpox\blend\blendcrackedsoil_NRM"
+	"$surfaceprop" "concrete"
+	"$surfaceprop2" "sand"
+	"%tooltexture" "lumpox\blend\blendbrick01crackedsoil"
+	"%keywords" "lumpox blend crackedsoil soil brick"
+	"%detailtype2" "swamp_ground01"
+}

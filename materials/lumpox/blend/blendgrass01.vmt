@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "lumpox\blend\blendgrass"
+	"$bumpmap" "lumpox\blend\blendgrass_NRM"
+	"$surfaceprop" "grass"
+}

@@ -1,0 +1,13 @@
+"WorldVertexTransition"
+{
+	"$basetexture2" "lumpox\blend\blendforest"
+	"$basetexture" "lumpox\blend\blendgrass01"
+	"$bumpmap2" "lumpox\blend\blendforest_NRM"
+	"$bumpmap" "lumpox\blend\blendgrass01_NRM"
+	"$surfaceprop2" "sand"
+	"$surfaceprop" "grass"
+	"$receiveflashlight" "1"
+	"%tooltexture" "lumpox\blend\blendforestgrass"
+	"%keywords" "blend grass forest"
+	"%detailtype" "swamp_ground01"
+}

@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "lumpox\blend\blendforest"
+	"$bumpmap" "lumpox\blend\blendforest_NRM"
+	"$surfaceprop" "dirt"
+}

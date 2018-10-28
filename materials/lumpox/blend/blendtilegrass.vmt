@@ -1,0 +1,12 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "lumpox\blend\blendtileweed"
+	"$basetexture2" "lumpox\blend\blendgrass"
+	"$bumpmap" "lumpox\blend\blendtileweed_NRM"
+	"$bumpmap2" "lumpox\blend\blendgrass_NRM"
+	"$surfaceprop" "brick"
+	"$surfaceprop2" "grass"
+	"%tooltexture" "lumpox\blend\blendtilegrass"
+	"%keywords" "lumpox blend grass tile"
+	"%detailtype2" "swamp_ground01"
+}
